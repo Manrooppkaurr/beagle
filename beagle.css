@@ -1,0 +1,23 @@
+.top-section{
+    border: 1px solid black;
+}
+a{
+    text-decoration: none;
+    margin: 10px;
+}
+h1{
+    text-decoration: underline;
+    font-size: 35px;
+    margin: 10px;
+}
+
+p{
+    text-align: justify;
+    padding: 10px;
+}
+img{
+    height:270px;
+    width: 270px;
+    display: block;
+    margin: 10px;
+}
